@@ -12,11 +12,11 @@ A menu-driven program calculating turnaround time and waiting time with Gantt ch
 
 -3.Round Robin Scheduling
 
-![3](https://github.com/user-attachments/assets/1b18b682-ba14-4a9f-97b4-9d018)
+![3](https://github.com/user-attachments/assets/701890e2-035a-4702-9947-4986e4c56c89)
 
 -4.Priority Scheduling(Non Preemptive)
 
-![4](https://github.com/user-attachments/assets/6e888b80-1e04-40c8-a8fa-6)
+![4](https://github.com/user-attachments/assets/33eef72d-4f9d-4e92-aaee-6bbe13a0613b)
 
 -5.Priority Scheduling(Preemptive)
 
